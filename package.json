@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nandocoeg/nandocoeg-flashdrive/issues"
   },
-  "homepage": "https://github.com/nandocoeg/nandocoeg-flashdrive#readme"
+  "homepage": "https://github.com/nandocoeg/nandocoeg-flashdrive#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
