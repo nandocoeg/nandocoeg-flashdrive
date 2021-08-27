@@ -1,0 +1,19 @@
+{
+  "name": "nandocoeg-flashdrive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandocoeg/nandocoeg-flashdrive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandocoeg/nandocoeg-flashdrive/issues"
+  },
+  "homepage": "https://github.com/nandocoeg/nandocoeg-flashdrive#readme"
+}
